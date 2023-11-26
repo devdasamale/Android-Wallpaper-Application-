@@ -3,6 +3,6 @@ It is a android application designed on Android Studio by using Java, Xml and Fi
 
 # Results
 
-<img src="https://github.com/devdasamale/Android-Wallpaper-Application-/assets/100094659/71216b05-9dce-4cf9-9507-4858aa5f58c0" width=200 height=400>
+<img src="https://github.com/devdasamale/Android-Wallpaper-Application-/assets/100094659/71216b05-9dce-4cf9-9507-4858aa5f58c0" width=200 height=420>
 
 
