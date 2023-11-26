@@ -3,8 +3,9 @@ It is a android application designed on Android Studio by using Java, Xml and Fi
 
 # Results
 
-**Splash Activity**
 <img src="https://github.com/devdasamale/Android-Wallpaper-Application-/assets/100094659/71216b05-9dce-4cf9-9507-4858aa5f58c0" width=200 height=420>
+**Splash Activity**
+
 
 **Navigation Drawer Layout**
 <img src="https://github.com/devdasamale/Android-Wallpaper-Application-/assets/100094659/e6ca9ff0-784e-461e-84bd-75ade5eaa92a" width=200 height=420>
