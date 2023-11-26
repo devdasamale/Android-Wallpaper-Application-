@@ -14,16 +14,22 @@ It is a android application designed on Android Studio by using Java, Xml and Fi
 
 
 
+
 **About Dialog Layout**
 <img src="https://github.com/devdasamale/Android-Wallpaper-Application-/assets/100094659/ac3f235d-3da3-4616-b8e4-5c95f9b441d0" width=200 height=420>
+
+
 
 
 **Wallpapers Fragment**
 <img src="https://github.com/devdasamale/Android-Wallpaper-Application-/assets/100094659/08d61885-ef0f-4427-b80e-2b1ed876400e" width=200 height=420>
 
 
+
+
 **Another Wallpaper Fragment**
 <img src="https://github.com/devdasamale/Android-Wallpaper-Application-/assets/100094659/82e40b81-a06e-4b63-a06f-1860e7ad65c8" width=200 height=420>
+
 
 
 
